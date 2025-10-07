@@ -1,0 +1,57 @@
+# VSCode
+.vscode/*
+vscode/
+
+# IntelliJ
+.idea
+.idea/*
+
+# Env
+.env
+env/
+ENV/
+env.bak/
+
+# Python VirtualEnv
+.venv
+.venv/*
+venv.bak/
+
+# Python Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MACOS
+*.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+
+# Binaries to not include
+*.tar.gz
+*.txt.gz
+*.raw.gz
+*.iso
+*.dmg
+*.img
+*.gz
+*.tgz
+*.bz2
+*.zip
+*.rar
+*.7z
+
+# Ignore everything inside data/
+data/*
+
+# But keep README.md
+!data/README.md
