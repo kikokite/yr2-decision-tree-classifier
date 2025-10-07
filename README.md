@@ -13,7 +13,7 @@ It handles categorical and numerical attributes, performs k-fold and leave-one-o
 
 The project also demonstrates using decision trees to inform AI strategies in a Connect 4 game, replacing the utility function from previous assignments with tree-based predictions.
 
--- 
+---
 
 ## 🎯 Objectives
 - Implement the ID3 algorithm to build decision trees from any CSV dataset.
@@ -22,7 +22,7 @@ The project also demonstrates using decision trees to inform AI strategies in a 
 - Evaluate models using balanced accuracy and cross-validation techniques.
 - Integrate the decision tree predictions into Connect 4 gameplay for AI decision-making.
 
---
+---
 
 ## 🗂 Dataset
 - restaurant — a classic categorical dataset.
@@ -30,7 +30,7 @@ The project also demonstrates using decision trees to inform AI strategies in a 
 - iris — the well-known iris classification dataset.
 - connect4 challenge dataset — each line represents a board configuration, used to train a tree for AI gameplay.
 
--- 
+---
 
 ## ⚙️ Requirements
 ```bash
